@@ -22,3 +22,17 @@ Here are some ideas to get you started:
 <!--
 ![Top Project](https://github-readme-stats.vercel.app/api/pin/?username=amshenoy&repo=lucid-project&theme=tokyonight&hide_border=true&bg_color=00000000)
 -->
+
+<!--
+
+<a href="https://twitter.com/#">
+  <img align="left" alt="Abhishek's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/495f7e" />
+</a>
+<a href="https://www.instagram.com/#">
+  <img align="left" alt="Abhishek's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/495f7e" />
+</a>
+<a href="https://linkedin.com/in/#">
+  <img align="left" alt="Abhishek's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+
+-->
