@@ -19,4 +19,6 @@ Here are some ideas to get you started:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amshenoy&theme=tokyonight&hide_border=true&background=FFFFFF00">
 </p>
 
+<!--
 ![Top Project](https://github-readme-stats.vercel.app/api/pin/?username=amshenoy&repo=lucid-project&theme=tokyonight&hide_border=true&bg_color=00000000)
+-->
